@@ -1,0 +1,12 @@
+h1{
+    display: flex;
+    width: 60%;
+    justify-content: center;
+    margin: 0 auto;
+}
+h3{
+    display: flex;
+    width: 60%;
+    justify-content: center;
+    margin: 0 auto;
+}

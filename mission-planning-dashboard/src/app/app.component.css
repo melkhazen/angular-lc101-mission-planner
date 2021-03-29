@@ -1,4 +1,11 @@
 .box {
     display: flex;
     padding: 10px;
+    width: 60%;
+    justify-content: center;
+    margin: 0 auto;
+    padding-top: 8rem;
+ }
+ #littel-box{
+    margin-right: 7rem;
  }
